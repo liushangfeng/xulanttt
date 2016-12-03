@@ -8,6 +8,12 @@
 - [ZenHub](https://github.com/WowCoach/tdd-kata-java#boards?repos=64041285)
 
 ## How to Start
+#### Clone source code
+```
+git clone https://github.com/WowCoach/tdd-kata-java.git
+cd tdd-kata-java
+```
+
 #### Generate IntelliJ IDEA project
 ```
 ./gradlew cI idea  # Will clean idea first then idea
